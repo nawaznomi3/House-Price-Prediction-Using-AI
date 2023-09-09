@@ -1,3 +1,3 @@
 # House-Price-Prediction-Using-AI
 Solving a regression problem using AI 
-Author Name : Noman Nawaz
+Author : Noman Nawaz
