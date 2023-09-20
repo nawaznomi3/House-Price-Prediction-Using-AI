@@ -1,4 +1,4 @@
-# House-Price-Prediction-Using-AI
-Solving a regression problem using AI 
+# House-Price-Prediction-Using-ML
+Solving a regression problem using Machine Learning
 <br>
 Author : Noman-Nawaz
